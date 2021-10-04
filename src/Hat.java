@@ -3,5 +3,7 @@ public class Hat {
 
         // This is the hat class
         // hats exist here.
+
+        // I would like to update the hat class
     }
 }
