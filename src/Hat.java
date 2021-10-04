@@ -5,5 +5,7 @@ public class Hat {
         // hats exist here.
 
         // I would like to update the hat class
+
+        // I have just one more line to update here.
     }
 }
